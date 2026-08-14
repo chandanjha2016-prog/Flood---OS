@@ -1,5 +1,13 @@
-# Flood OS
 
+# Flood OS 🌊
+
+![Live Demo](https://img.shields.io/badge/Live-Demo-blue)
+**Community Early Warning System for Floods**
+
+🔗 **Live Demo**: https://flood-os.vercel.app
+
+> ⚠️ **IMPORTANT**: This is a community tool for awareness only. 
+> For real emergencies call: 1077 / 112
 Flood OS is an open-source flood monitoring and early warning system designed for rural and urban communities.
 
 ## Problem
